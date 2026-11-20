@@ -1,24 +1,47 @@
-# Progress Tracker
+# Engineering Progress Tracker
 
-Track your learning journey across all seasons and weeks.
+## Overview
 
-## Current Focus
+**Curriculum:** 64 learning units  
+**Completed:** 0 / 64  
+**Current unit:** Week 01  
+**Current focus:** Binary, hexadecimal, integer representation, and IEEE 754
 
-- Season: 
-- Week: 
-- Status: 
+## Learning Record
 
-## Completed
+| Week | Topic                    | Status      | Evidence |
+| ---- | ------------------------ | ----------- | -------- |
+| 01   | Number Representation    | Not started | —        |
+| 02   | Computer Architecture    | Not started | —        |
+| 03   | Assembly & CPU Internals | Not started | —        |
+| 04   | Operating Systems        | Not started | —        |
 
-### Season 01: Foundations
-- [ ] Week 01: Number Representation
-- [ ] Week 02: Computer Architecture
+Additional weeks will be added as work progresses.
 
-### Season 02: Backend
-- [ ] TBD
+## Completed Projects
 
-### Season 03: Systems
-- [ ] TBD
+| Project | Engineering Focus | Repository |
+| ------- | ----------------- | ---------- |
+| —       | —                 | —          |
 
-### Season 04: AI Engineering
-- [ ] TBD
+## Published Articles
+
+| Article | Topic | Link |
+| ------- | ----- | ---- |
+| —       | —     | —    |
+
+## Engineering Milestones
+
+- [ ] Complete first verified learning unit
+- [ ] Complete computer architecture build
+- [ ] Complete first substantial Python project
+- [ ] Complete a tested backend service
+- [ ] Complete a containerized application
+- [ ] Complete a distributed-systems project
+- [ ] Complete an evaluated AI project
+
+## Progress Reviews
+
+Periodic reviews document improvements in technical understanding, implementation ability, debugging, and engineering judgment.
+
+See the `reviews/` directory.

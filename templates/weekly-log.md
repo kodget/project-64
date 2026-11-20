@@ -1,80 +1,92 @@
-# Week [Number]: [Topic] - Weekly Log
+# Week XX — Topic
 
-**Date Range:** [Start Date] - [End Date]
+**Status:** Not started  
+**Started:** YYYY-MM-DD  
+**Completed:** —
 
-## Goals for This Week
+## Learning Objectives
 
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] Objective 1
+- [ ] Objective 2
+- [ ] Objective 3
 
-## Daily Log
+## 1. Conceptual Understanding
 
-### Monday - [Date]
+### Key concepts
 
-**Time Spent:** 
+Explain the concepts in my own words.
 
-**What I Learned:**
+### Worked examples
 
-**Questions/Challenges:**
+Include explanations, calculations, examples, or diagrams demonstrating understanding.
 
-### Tuesday - [Date]
+### Questions I can now answer
 
-**Time Spent:** 
+1. Question one
+2. Question two
+3. Question three
 
-**What I Learned:**
+## 2. Practical Implementations
 
-**Questions/Challenges:**
+| Implementation | Purpose | Verification |
+| -------------- | ------- | ------------ |
+| —              | —       | —            |
 
-### Wednesday - [Date]
+Link to relevant source code, tests, commits, or separate repositories.
 
-**Time Spent:** 
+## 3. Experiments
 
-**What I Learned:**
+**Question:** What am I investigating?
 
-**Questions/Challenges:**
+**Hypothesis:** What do I expect?
 
-### Thursday - [Date]
+**Method:** How did I test it?
 
-**Time Spent:** 
+**Results:** What did I observe?
 
-**What I Learned:**
+**Conclusion:** What did I learn?
 
-**Questions/Challenges:**
+## 4. Problems Encountered
 
-### Friday - [Date]
+### Problem
 
-**Time Spent:** 
+Describe the difficulty.
 
-**What I Learned:**
+### Investigation
 
-**Questions/Challenges:**
+What did I try? What evidence did I collect?
 
-### Weekend - [Date Range]
+### Resolution
 
-**Time Spent:** 
+Explain the solution and why it worked.
 
-**What I Learned:**
+## 5. Technical Checkpoint
 
-**Questions/Challenges:**
+- [ ] I can explain the fundamental concepts without notes.
+- [ ] I completed the assigned practical exercises.
+- [ ] I completed the required challenge.
+- [ ] I verified my solution.
+- [ ] I documented the relevant engineering decisions.
 
-## Weekly Summary
+## 6. Healthcare Connection
 
-### Achievements
+**Article:**  
+**Link:**  
+**Key insight:**
 
-- 
+## 7. Weekly Reflection
 
-### Key Insights
+**What I understand better:**
 
-- 
+**What remains difficult:**
 
-### Next Week Preview
+**How my implementation improved:**
 
-- 
+**Next technical objective:**
 
-## Resources Used
+## Evidence
 
-- 
-
-## Notes
-
+- Relevant commit:
+- Project repository:
+- Test results:
+- Other demonstrations:
